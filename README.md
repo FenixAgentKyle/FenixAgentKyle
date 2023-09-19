@@ -1,6 +1,5 @@
  Hi, I’m Kyle -
  I’m interested in expanding my coding knowledge and learning how to manage projects on GitHub.
- I’m currently learning Python.
  
  
 
